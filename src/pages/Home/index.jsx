@@ -1,9 +1,11 @@
 import React from "react"
+import { Header } from "../../components/Header"
 
 export const Home = () => {
   return (
     <div>
-      <p className="text-sm">hello world</p>
+      <Header />
+      <div className="relative pt-5"></div>
     </div>
   )
 }
