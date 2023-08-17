@@ -6,7 +6,7 @@ import Cursor from "react-cursor-follow"
 function App() {
   return (
     <>
-      <Cursor hollow duration={0.8} size={35} />
+      <Cursor duration={0.8} size={35} color="#eb5939" />
       <Routes>
         <Route path="/" element={<Home />} />
       </Routes>
