@@ -7375,6 +7375,11 @@ react-app-polyfill@^3.0.0:
     regenerator-runtime "^0.13.9"
     whatwg-fetch "^3.6.2"
 
+react-cursor-follow@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/react-cursor-follow/-/react-cursor-follow-2.0.0.tgz#bc2aff20e25195b4e050aabb0b9147d96f1494ca"
+  integrity sha512-1Mr00yR46KFiQsoU9oKRZ6j6N3ZhK2Lk+1yrZ1qJypEQI+CKFJpHKlowTIe9RAXuWndz90Zag0Ry5Y1vekVMng==
+
 react-dev-utils@^12.0.1:
   version "12.0.1"
   resolved "https://registry.yarnpkg.com/react-dev-utils/-/react-dev-utils-12.0.1.tgz#ba92edb4a1f379bd46ccd6bcd4e7bc398df33e73"
